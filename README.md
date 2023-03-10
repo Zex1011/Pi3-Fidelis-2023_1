@@ -18,9 +18,17 @@ A ideia para cumprir o papel de câmera e display seria utilizar um celular comu
 
 ## Especificações:
 
-|||
+
+
+|Especificação| Quantidade |
 | ------ | ------ |
 | Folhas por minuto | 3 |
+| Número de avaliações | 50 |
+| Número máximo de questões | 10 |
+| Número máximo de alternativas | 5 |
+
+|Requisitos | Quantidade |
+| ------ | ------ |
 | Motor para posicionamento de folhas  | 2 |
 | Câmera para leitura de imagens | 1 |
 | Display | 1 |
