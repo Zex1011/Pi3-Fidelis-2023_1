@@ -18,6 +18,7 @@ A ideia para cumprir o papel de câmera e display seria utilizar um celular comu
 
 ## Especificações:
 
+|||
 | ------ | ------ |
 | Folhas por minuto | 3 |
 | Motor para posicionamento de folhas  | 2 |
