@@ -40,7 +40,7 @@ A ideia para cumprir o papel de câmera e display seria utilizar um celular comu
 
 ## Cronograma:
 
-|Tarefa | data_limite | status |
+|Tarefa | data limite | status |
 | ------ | ------ | ------ |
 | Montagem de diagrama de blocos  |  | A começar |
 | Adquirir base para o protótipo |  | A começar |
