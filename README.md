@@ -35,3 +35,27 @@ A ideia para cumprir o papel de câmera e display seria utilizar um celular comu
 | Microcontrolador | 1 |
 | Transmissor bluetooth | 2 |
 
+-Fluxograma:
+
+
+## Cronograma:
+
+|Tarefa | data_limite | status |
+| ------ | ------ | ------ |
+| Montagem de diagrama de blocos  |  | A começar |
+| Adquirir base para o protótipo |  | A começar |
+| Escolher componentes |  | A começar |
+| Programação do aplicativo no celular |  | A começar |
+| Testes na estrutura da base |  | A começar |
+| Projetar ajustes na base |  | A começar |
+| Testes dos ajustes da base |  | A começar |
+| Programação do microcontrolador da base |  | A começar |
+| Ajustes e correções restantes |  | A começar |
+
+
+
+## Tarefas:
+
+-Fazer cronograma
+
+-Fazer fluxograma
