@@ -22,7 +22,7 @@ A ideia para cumprir o papel de câmera e display seria utilizar um celular comu
 
 |Especificação| Quantidade |
 | ------ | ------ |
-| Folhas por minuto | 3 |
+| Folhas por minuto | 10 |
 | Número de avaliações | 50 |
 | Número máximo de questões | 10 |
 | Número máximo de alternativas | 5 |
