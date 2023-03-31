@@ -33,7 +33,7 @@ A ideia para cumprir o papel de câmera e display seria utilizar um celular comu
 | Câmera para leitura de imagens | 1 |
 | Display | 1 |
 | Microcontrolador | 1 |
-| Transmissor bluetooth | 2 |
+| Cabo microcontrolador/celular | 1 |
 
 -Fluxograma:
 
