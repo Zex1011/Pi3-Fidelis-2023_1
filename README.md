@@ -36,6 +36,7 @@ A ideia para cumprir o papel de câmera e display seria utilizar um celular comu
 | Transmissor bluetooth | 2 |
 
 -Fluxograma:
+
 ![image](https://user-images.githubusercontent.com/53865438/229184465-cff4467b-9186-4885-939c-dc2a8225b52e.png)
 
 
