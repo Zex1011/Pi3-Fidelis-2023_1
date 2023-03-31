@@ -37,7 +37,8 @@ A ideia para cumprir o papel de câmera e display seria utilizar um celular comu
 
 -Fluxograma:
 
-![image](https://user-images.githubusercontent.com/53865438/229184465-cff4467b-9186-4885-939c-dc2a8225b52e.png)
+![image](https://user-images.githubusercontent.com/53865438/229185109-7d6e3861-be5d-499c-980a-882d6897b697.png)
+
 
 
 ## Cronograma:
