@@ -45,15 +45,15 @@ A ideia para cumprir o papel de câmera e display seria utilizar um celular comu
 
 |Tarefa | data limite | status |
 | ------ | ------ | ------ |
-| Montagem de diagrama de blocos  |  | Em execução |
-| Adquirir base para o protótipo |  | Em execução |
-| Escolher componentes |  | Em execução |
-| Programação do aplicativo no celular |  | A começar |
-| Testes na estrutura da base |  | A começar |
-| Projetar ajustes na base |  | A começar |
-| Testes dos ajustes da base |  | A começar |
-| Programação do microcontrolador da base |  | A começar |
-| Ajustes e correções restantes |  | A começar |
+| Montagem de diagrama de blocos  | 31/03/23 | Concluída |
+| Adquirir base para o protótipo | 14/04/23 | Em execução |
+| Escolher componentes | 28/04/23 | Em execução |
+| Testes na estrutura da base | 05/05/23 | A começar |
+| Projetar ajustes na base | 12/05/23 | A começar |
+| Testes dos ajustes da base | 19/05/23 | A começar |
+| Programação do microcontrolador da base | 09/06/23 | A começar |
+| Programação do aplicativo no celular | 16/06/23 | A começar |
+| Ajustes e correções restantes | 23/06/23 | A começar |
 
 
 
