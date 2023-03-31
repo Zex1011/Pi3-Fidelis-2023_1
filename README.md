@@ -42,9 +42,9 @@ A ideia para cumprir o papel de câmera e display seria utilizar um celular comu
 
 |Tarefa | data limite | status |
 | ------ | ------ | ------ |
-| Montagem de diagrama de blocos  |  | A começar |
-| Adquirir base para o protótipo |  | A começar |
-| Escolher componentes |  | A começar |
+| Montagem de diagrama de blocos  |  | Em execução |
+| Adquirir base para o protótipo |  | Em execução |
+| Escolher componentes |  | Em execução |
 | Programação do aplicativo no celular |  | A começar |
 | Testes na estrutura da base |  | A começar |
 | Projetar ajustes na base |  | A começar |
