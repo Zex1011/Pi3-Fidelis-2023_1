@@ -32,10 +32,10 @@ A ideia para cumprir o papel de câmera e display seria utilizar um celular comu
 | Motor para posicionamento de folhas  | 1 |
 | Braço para segurar celular  | 1 |
 | Celular | 1 |
-| Microcontrolador Bluepill ou Blackpill| 1 |
+| Microcontrolador ESP32| 1 |
 | Fonte 12V | 1 |
-| Rele | 1 |
-| Cabo microcontrolador/celular | 1 |
+| Rele 3.3V | 1 |
+
 
 -Fluxograma:
 
@@ -49,13 +49,13 @@ A ideia para cumprir o papel de câmera e display seria utilizar um celular comu
 | ------ | ------ | ------ |
 | Montagem de diagrama de blocos  | 31/03/23 | Concluída |
 | Adquirir base para o protótipo | 14/04/23 | Conluída |
-| Escolher componentes | 28/04/23 | Em execução |
+| Escolher componentes | 28/04/23 | Concluída |
 | Testes na estrutura da base | 05/05/23 | Concluída |
-| Projetar ajustes na base | 12/05/23 | Em execução |
-| Testes dos ajustes da base | 19/05/23 | A começar |
-| Programação do microcontrolador da base | 09/06/23 | Em execução |
-| Programação do aplicativo no celular | 16/06/23 | A começar |
-| Ajustes e correções restantes | 23/06/23 | A começar |
+| Projetar ajustes na base | 12/05/23 | Concluída |
+| Testes dos ajustes da base | 19/05/23 | Em execução |
+| Programação do microcontrolador da base | 09/06/23 | Concluída |
+| Programação do aplicativo no celular | 16/06/23 | Em execução |
+| Ajustes e correções restantes | 23/06/23 | Em execução |
 
 ## Base adquirida:
 
