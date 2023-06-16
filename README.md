@@ -67,8 +67,10 @@ O modelo era HP photosmart C4480, uma impressora, scanner e copiadora:
 Então, parti para o processo de desmontar os sistemas que eu não usaria, tirando assim partes como a eletrônica, o motor e o sistema de tintas, o display, e toda a parte relacionada a escaneamento de folhas, deixando assim praticamente apenas peças relacionadas a movimentar a folha pelo trajeto de impressão.
 
 Imagem das peças retiradas:
+![WhatsApp Image 2023-06-16 at 12 03 49](https://github.com/Zex1011/Pi3-Fidelis-2023_1/assets/53865438/efac297b-f3e5-4a64-9b57-9a9f957746b7)
 
 Impressora apenas com as partes necessárias:
+![WhatsApp Image 2023-06-16 at 12 05 39](https://github.com/Zex1011/Pi3-Fidelis-2023_1/assets/53865438/0bc5d6dc-fcc8-4df2-8bcd-29fce7920337)
 
 
 
