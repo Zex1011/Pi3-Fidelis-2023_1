@@ -59,7 +59,16 @@ A ideia para cumprir o papel de câmera e display seria utilizar um celular comu
 
 ## Base adquirida:
 
+Consegui uma impressora/copiadora de uma loja e por sorte apenas o sistema de impressão estava danificado, porém o sistema de transporte das folhas estava intacto.
+O modelo era HP photosmart C4480, uma impressora, scanner e copiadora:
 
+![image](https://github.com/Zex1011/Pi3-Fidelis-2023_1/assets/53865438/ec78a227-f2af-4f1b-a249-14afeeb9a592)
+
+Então, parti para o processo de desmontar os sistemas que eu não usaria, tirando assim partes como a eletrônica, o motor e o sistema de tintas, o display, e toda a parte relacionada a escaneamento de folhas, deixando assim praticamente apenas peças relacionadas a movimentar a folha pelo trajeto de impressão.
+
+Imagem das peças retiradas:
+
+Impressora apenas com as partes necessárias:
 
 
 
