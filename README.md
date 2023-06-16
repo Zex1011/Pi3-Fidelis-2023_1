@@ -72,10 +72,36 @@ Imagem das peças retiradas:
 Impressora apenas com as partes necessárias:
 ![WhatsApp Image 2023-06-16 at 12 05 39](https://github.com/Zex1011/Pi3-Fidelis-2023_1/assets/53865438/0bc5d6dc-fcc8-4df2-8bcd-29fce7920337)
 
+## Teste da base:
+Testei a velocidade com que o motor movimentava as folhas alterando a tensão, e por fim 5V ficou dentro da faixa de rápido o suficiente para a folha conseguir fazer todo o trajeto, porém lento o suficiente para que as chances de algo travar as folhas serem mais baixas. Assim ficou decidido que usarei uma fonte de 5V, tanto para alimentar o motor, quanto para alimentar o microcontrolador do protótipo.
+
+## Controle da base:
+
+A ideia é que o aplicativo de correção consiga operar a impressora, dessa forma quando alguma leitura for defeituosa, o aplicativo irá segurar a folha no lugar até que a leitura e correção tenham sucesso.
+Para isso, decidi utilizar comunicação bluetooth, de forma que o aplicativo se comunique com um microcontrolador e diga se este deve parar ou continuar a passagem de folhas. Na ideia original, eu utilizaria um microcontrolador mais simples, porém isso exigiria que eu comprasse um módulo bluetooth confiável, e como o preço de um módulo ficou alto, optei por comprar um ESP32, que está na mesma faixa de preço, ja possui bluetooth presente e é mais simples de se programar.
+
+Módulo ESP32: 
+![WhatsApp Image 2023-06-16 at 12 16 52](https://github.com/Zex1011/Pi3-Fidelis-2023_1/assets/53865438/d34b65b4-fad9-4bb7-a2a4-982a3c982e13)
+
+Além disso, obtive um relé de 3V para o acionamento com os pinos lógicos do ESP
+
+## Alterações e testes na base:
+
+A programação do microcontrolador está completa e ele é capaz de acionar o relé quando recebe um sinal de bluetooth. Isso faz com que o sistema de controlar as folhas funcione como desejado.
+Outro fator que foi resolvido era posicionar as folhas na saída de forma que ficassem retas o suficientes para terem suas fotos tiradas. Foi colocado uma extensão simples para a base, utilizando madeira e papelão, de forma que as folhas se apoiem facilmente por sima dela e consigam manter o padrão de sempre ficarem em cima da anterior
+
+## Sistema de correção:
+
+Um apoio para o celular se manter em cima das folhas a todo o momento será utilizado, e o aplicativo será programado em python.
+O objetivo do aplicativo é:
+- Tirar as fotos e analisa-las, caso a foto seja de uma prova que ja foi lida e processada, não será necessário salva-la.
+- Caso o processamento tenha falhas, enviar um sinal de espera para a base, se forma que as folhas parem para uma captura melhor.
+- Assim que a captura for concluída e verificada, enviar sinal de continuação para a base, partindo assim para a próxima prova.
 
 
 ## Tarefas:
 
 -Fazer fluxograma
+-Terminar aplicativo
 
 
