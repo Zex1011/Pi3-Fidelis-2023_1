@@ -83,7 +83,7 @@ Para isso, decidi utilizar comunicação bluetooth, de forma que o aplicativo se
 Módulo ESP32: 
 ![WhatsApp Image 2023-06-16 at 12 16 52](https://github.com/Zex1011/Pi3-Fidelis-2023_1/assets/53865438/d34b65b4-fad9-4bb7-a2a4-982a3c982e13)
 
-Além disso, obtive um relé de 3V para o acionamento com os pinos lógicos do ESP
+Além disso, obtive um relé de 3V para o acionamento com os pinos lógicos do ESP, então fiz uma placa de circuito impreso que permite que o ESP forneça 5V para a impressora quando ele recebe um sinal via bluetooth.
 
 ## Alterações e testes na base:
 
