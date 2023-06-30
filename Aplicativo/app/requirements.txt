@@ -1,0 +1,7 @@
+Kivy
+plyer
+pillow
+jnius
+opencv
+numpy
+
