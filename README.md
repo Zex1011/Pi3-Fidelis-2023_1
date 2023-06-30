@@ -99,9 +99,5 @@ O objetivo do aplicativo é:
 - Assim que a captura for concluída e verificada, enviar sinal de continuação para a base, partindo assim para a próxima prova.
 
 
-## Tarefas:
-
--Fazer fluxograma
--Terminar aplicativo
 
 
