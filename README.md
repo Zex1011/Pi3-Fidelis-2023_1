@@ -88,7 +88,7 @@ Além disso, obtive um relé de 3V para o acionamento com os pinos lógicos do E
 ## Alterações e testes na base:
 
 A programação do microcontrolador está completa e ele é capaz de acionar o relé quando recebe um sinal de bluetooth. Isso faz com que o sistema de controlar as folhas funcione como desejado.
-Outro fator que foi resolvido era posicionar as folhas na saída de forma que ficassem retas o suficientes para terem suas fotos tiradas. Foi colocado uma extensão simples para a base, utilizando madeira e papelão, de forma que as folhas se apoiem facilmente por sima dela e consigam manter o padrão de sempre ficarem em cima da anterior
+Outro fator que foi resolvido era posicionar as folhas na saída de forma que ficassem retas o suficientes para terem suas fotos tiradas. Foi colocado uma extensão simples para a base, utilizando madeira, de forma que as folhas se apoiem facilmente por sima dela e consigam manter o padrão de sempre ficarem em cima da anterior
 
 ## Sistema de correção:
 
