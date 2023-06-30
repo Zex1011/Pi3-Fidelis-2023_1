@@ -52,7 +52,7 @@ A ideia para cumprir o papel de câmera e display seria utilizar um celular comu
 | Escolher componentes | 28/04/23 | Concluída |
 | Testes na estrutura da base | 05/05/23 | Concluída |
 | Projetar ajustes na base | 12/05/23 | Concluída |
-| Testes dos ajustes da base | 19/05/23 | Em execução |
+| Testes dos ajustes da base | 19/05/23 | Concluída |
 | Programação do microcontrolador da base | 09/06/23 | Concluída |
 | Programação do aplicativo no celular | 16/06/23 | Em execução |
 | Ajustes e correções restantes | 23/06/23 | Em execução |
